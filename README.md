@@ -1,2 +1,2 @@
 # algorithms_for_ds
-This repository presents educational work for the course data analysis algorithms
+This repository provides an implementation of basic machine learning algorithms: linear regression, logistic regression, decision trees, random forest, gradient boosting, knn
